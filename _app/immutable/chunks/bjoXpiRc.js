@@ -1,0 +1,1 @@
+import"./NZTpNUN0.js";import{f as e,ar as i,e as t,a as m,d as o,r as p}from"./5HUvDlmk.js";import{b as c}from"./CBqtnVQH.js";var f=e("<div><!></div>");function g(d,r){var a=f(),s=o(a);i(s,()=>r.children),p(a),t(()=>c(a,1,`md:grid md:grid-cols-${r.columns??""} md:gap-x-8`)),m(d,a)}export{g as G};
