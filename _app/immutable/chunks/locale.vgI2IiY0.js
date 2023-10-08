@@ -1,0 +1,1 @@
+import{w as a}from"./index.A-4UbFBa.js";const e="fr-CA",l={fr:"fr-CA",en:"en-CA"},o=[{display:"English",href:"/en-CA",code:"en-CA"},{display:"Français",href:"/fr-CA",code:"fr-CA"}],r=a(e);export{l as a,o as b,e as d,r as l};
